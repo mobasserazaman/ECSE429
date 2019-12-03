@@ -1,0 +1,8 @@
+Line under test  Character position  Original operator  Mutant 1  Mutant 2   Mutant 3 
+	4		19		    +		   -	     *		/	
+	9		25		    -		   +	     *		/	
+	14		23		    *		   +	     -		/	
+	19		20		    /		   +	     -		*	
+
+Mutants Generated
+Plus : 3, Minus : 3, Multiplication : 3, Division :  3
